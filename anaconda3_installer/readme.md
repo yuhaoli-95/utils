@@ -1,4 +1,5 @@
-- 自动安装指定位置的anaconda
+# 自动安装指定位置的anaconda
+
 安装命令:
 
 ```source installer.sh ${anaconda_path}```
